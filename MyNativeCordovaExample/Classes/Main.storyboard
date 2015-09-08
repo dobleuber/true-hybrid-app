@@ -8,7 +8,7 @@
         <!--Native-->
         <scene sceneID="Xca-WV-FJC">
             <objects>
-                <viewController id="jgD-8y-ROv" sceneMemberID="viewController">
+                <viewController id="jgD-8y-ROv" customClass="VideoViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="GmH-tZ-YrF"/>
                         <viewControllerLayoutGuide type="bottom" id="MUo-PY-hGr"/>

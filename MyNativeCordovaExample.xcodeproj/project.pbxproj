@@ -32,6 +32,7 @@
 		40BAC2738CE245CF9C4BB36B /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF0CEF1E3C74F9AA5CDE1DE /* CDVLogger.m */; };
 		56698CC01B98A253006A7FF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56698CBF1B98A253006A7FF1 /* Main.storyboard */; };
 		56698CC21B98D29C006A7FF1 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 56698CC11B98D29C006A7FF1 /* home.png */; };
+		56C1B6D01B9A47430030BF9D /* VideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56C1B6CF1B9A47430030BF9D /* VideoViewController.m */; };
 		7E7966DE1810823500FA85AD /* icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966D41810823500FA85AD /* icon-40.png */; };
 		7E7966DF1810823500FA85AD /* icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966D51810823500FA85AD /* icon-40@2x.png */; };
 		7E7966E01810823500FA85AD /* icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966D61810823500FA85AD /* icon-50.png */; };
@@ -92,6 +93,8 @@
 		32CA4F630368D1EE00C91783 /* MyNativeCordovaExample-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MyNativeCordovaExample-Prefix.pch"; sourceTree = "<group>"; };
 		56698CBF1B98A253006A7FF1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		56698CC11B98D29C006A7FF1 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		56C1B6CE1B9A46E30030BF9D /* VideoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VideoViewController.h; sourceTree = "<group>"; };
+		56C1B6CF1B9A47430030BF9D /* VideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoViewController.m; sourceTree = "<group>"; };
 		7E7966D41810823500FA85AD /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40.png"; sourceTree = "<group>"; };
 		7E7966D51810823500FA85AD /* icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40@2x.png"; sourceTree = "<group>"; };
 		7E7966D61810823500FA85AD /* icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-50.png"; sourceTree = "<group>"; };
@@ -131,6 +134,8 @@
 				1D3623240D0F684500981E51 /* AppDelegate.h */,
 				1D3623250D0F684500981E51 /* AppDelegate.m */,
 				56698CBF1B98A253006A7FF1 /* Main.storyboard */,
+				56C1B6CE1B9A46E30030BF9D /* VideoViewController.h */,
+				56C1B6CF1B9A47430030BF9D /* VideoViewController.m */,
 			);
 			name = Classes;
 			path = MyNativeCordovaExample/Classes;
@@ -391,6 +396,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56C1B6D01B9A47430030BF9D /* VideoViewController.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
