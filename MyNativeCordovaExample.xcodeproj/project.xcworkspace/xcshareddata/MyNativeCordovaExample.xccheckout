@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A10ABED-F710-4782-84B6-967A7B2F3A7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyNativeCordovaExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43FC982EAAA5AEB7343D6A014E944A02B9D3F990</key>
+		<string>https://github.com/melaspelas/true-hybrid-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyNativeCordovaExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43FC982EAAA5AEB7343D6A014E944A02B9D3F990</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/melaspelas/true-hybrid-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43FC982EAAA5AEB7343D6A014E944A02B9D3F990</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43FC982EAAA5AEB7343D6A014E944A02B9D3F990</string>
+			<key>IDESourceControlWCCName</key>
+			<string>true-hybrid-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
